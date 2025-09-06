@@ -15,11 +15,11 @@ News
 ======
 🎉 2025-09 — Launched this site 🎉
 
-Publications
+<!--Publications
 ======
 - **Paper Title** — Venue, 2024.  
   [Paper](/files/paper.pdf) · [Code](https://github.com/YOUR_USERNAME/repo)
-
+-->
 
 Links
 ======
