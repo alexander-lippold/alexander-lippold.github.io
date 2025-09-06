@@ -17,6 +17,7 @@ minimal_mistakes_skin: default   # or "air", "contrast", etc.
 
 include:
   - _pages
+  - images
 
 # Left sidebar author box
 author:
