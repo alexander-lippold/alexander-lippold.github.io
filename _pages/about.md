@@ -3,26 +3,26 @@ title: "About"
 permalink: /
 layout: single
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
-Hi! I'm ...  
+## About Me
+I’m **Your Name**, a Your Role at **Your Institution/Company**.  
+I work on keywords (e.g., 3D vision, Gaussian splatting, scene understanding).
 
-- **Email:** 
-- **Interests:** interest 1 • interest 2 • interest 3  
+- **Email:** you@domain.tld  
+- **Interests:** topic A, topic B, topic C  
 - **Affiliation:** Dept/Group, University
 
 ## News
-- Sept 2025 — 
+- 2025-09 — Launched this site 🎉
+- 2025-07 — Paper Title accepted at Venue.
 
-## Selected publications
-- Doe, J., **Your Name** (2024). *Paper Title*. Venue.  
-  [paper](/files/paper.pdf) · [code](https://github.com/YOUR_USERNAME/your-repo)
+## Selected Publications
+- **Paper Title** — Venue, 2024.  
+  [Paper](/files/paper.pdf) · [Code](https://github.com/YOUR_USERNAME/repo)
 
-## Teaching
-- Course Name (Term) — one-line description.
+## Teaching / Service
+- Course/Workshop (Term) — one-liner.
 
 ## Links
-[CV](/files/cv.pdf) · [Google Scholar](https://scholar.google.com/) · [ORCID](https://orcid.org/) · [GitHub](https://github.com/YOUR_USERNAME)
+[CV](/files/cv.pdf) · [GitHub](https://github.com/YOUR_USERNAME) · [Google Scholar](https://scholar.google.com/)
