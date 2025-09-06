@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: Alexander Lippold
-description: todo
+url: https://alexander-lippold.github.io
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+plugins:
+  - jekyll-include-cache
