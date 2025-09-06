@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Your Name**, a xyz at **Your Institution/Company**.  I work on ...
+<!--I’m **Your Name**, a xyz at **Your Institution/Company**.  I work on ...-->
+This page is still under construction.
 
 
 News
 ======
-🎉 2025-09 — Launched this site 🎉
+<!--🎉 2025-09 — Launched this site 🎉-->
 
 <!--Publications
 ======
@@ -23,4 +24,4 @@ News
 
 Links
 ======
-[CV](/files/cv.pdf) · [GitHub](https://github.com/YOUR_USERNAME) · [Google Scholar](https://scholar.google.com/)
+<!--[CV](/files/cv.pdf) · [GitHub](https://github.com/YOUR_USERNAME) · [Google Scholar](https://scholar.google.com/)-->
