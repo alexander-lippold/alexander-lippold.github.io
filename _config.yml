@@ -15,6 +15,9 @@ plugins:
 
 minimal_mistakes_skin: default   # or "air", "contrast", etc.
 
+include:
+  - _pages
+
 # Left sidebar author box
 author:
   name: Alexander Lippold
