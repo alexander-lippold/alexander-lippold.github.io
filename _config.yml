@@ -21,7 +21,7 @@ include:
 # Left sidebar author box
 author:
   name: Alexander Lippold
-  avatar: "/images/headshot.jpg"     # path to the image you added
+  avatar: "/images/headshot.png"     # path to the image you added
   bio: "TODO"
   location: "City, Country"
   email: "you@domain.tld"
